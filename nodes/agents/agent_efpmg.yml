@@ -2,8 +2,8 @@
 id: agent_efpmg
 name: Агент
 position:
-  x: 775
-  y: 287
+  x: 723
+  y: 296
 next-step: null
 next-error-step: null
 parameters:
