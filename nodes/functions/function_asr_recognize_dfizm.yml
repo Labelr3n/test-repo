@@ -2,8 +2,8 @@
 id: function_asr_recognize_dfizm
 name: Asr.recognize
 position:
-  x: 784
-  y: 251
+  x: 725
+  y: 263
 next-step: null
 next-error-step: null
 parameters:
