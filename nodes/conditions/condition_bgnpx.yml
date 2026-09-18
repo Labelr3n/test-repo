@@ -1,0 +1,11 @@
+---
+id: condition_bgnpx
+name: Условие
+position:
+  x: 907
+  y: 384
+next-step: null
+next-error-step: null
+parameters:
+  condition: null
+  false-step: null

@@ -3,5 +3,5 @@ id: ap3008Check
 name: ap3008Check
 description: "AP-3008 verify: commit gate with duplicate ids across collections"
 response-description: null
-parameters: null
+parameters: []
 language: JAVASCRIPT
