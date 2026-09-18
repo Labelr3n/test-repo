@@ -188,14 +188,10 @@ For detailed info about parameters and response, read the corresponding file.
 
 ## User Functions
 
-- `ap3008Warmup.gitFunc` — AP-3008 check: fourth duplicate id gitFunc, made in project2
-  Directory: functions/ap3008Warmup/gitFunc/
-- `CollectionA.gitFunc` — AP-3008 repro duplicate id in CollectionA
-  Directory: functions/CollectionA/gitFunc/
 - `CollectionA.ap3008Check` — AP-3008 verify: commit gate with duplicate ids across collections
   Directory: functions/CollectionA/ap3008Check/
-- `fromGit.gitFunc` — AP-3008 repro function in collection fromGit
-  Directory: functions/fromGit/gitFunc/
+- `CollectionA.gitFunc` — AP-3008 repro duplicate id in CollectionA
+  Directory: functions/CollectionA/gitFunc/
 - `CollectionB.gitFunc` — AP-3008 verify: third duplicate id gitFunc in CollectionB
   Directory: functions/CollectionB/gitFunc/
 

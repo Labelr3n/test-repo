@@ -1,7 +1,0 @@
----
-id: gitFunc
-name: gitFunc
-description: AP-3008 repro function in collection fromGit
-response-description: null
-parameters: []
-language: JAVASCRIPT
