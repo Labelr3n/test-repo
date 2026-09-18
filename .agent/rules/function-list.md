@@ -190,8 +190,8 @@ For detailed info about parameters and response, read the corresponding file.
 
 - `CollectionA.ap3008Check` — AP-3008 verify: commit gate with duplicate ids across collections
   Directory: functions/CollectionA/ap3008Check/
-- `CollectionA.dupCheck` — AP-3008 recheck: same id in CollectionA
-  Directory: functions/CollectionA/dupCheck/
-- `CollectionB.dupCheck` — AP-3008 recheck: same id in CollectionB
-  Directory: functions/CollectionB/dupCheck/
+- `CollectionA.gitFunc` — AP-3008 repro duplicate id in CollectionA
+  Directory: functions/CollectionA/gitFunc/
+- `CollectionB.gitFunc` — AP-3008 verify: third duplicate id gitFunc in CollectionB
+  Directory: functions/CollectionB/gitFunc/
 

@@ -1,0 +1,7 @@
+---
+id: gitFunc
+name: gitFunc
+description: AP-3008 repro duplicate id in CollectionA
+response-description: null
+parameters: []
+language: JAVASCRIPT
