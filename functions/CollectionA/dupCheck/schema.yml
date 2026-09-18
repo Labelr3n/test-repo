@@ -1,0 +1,7 @@
+---
+id: dupCheck
+name: dupCheck
+description: "AP-3008 recheck: same id in CollectionA"
+response-description: null
+parameters: null
+language: JAVASCRIPT
