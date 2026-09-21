@@ -2,9 +2,9 @@
 id: function_asr_recognize_qdden
 name: Asr.recognize
 position:
-  x: 1109
-  y: 169
-next-step: null
+  x: 1498
+  y: 149
+next-step: cycle_dzrza
 next-error-step: null
 parameters:
   type: SYSTEM

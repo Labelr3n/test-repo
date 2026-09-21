@@ -1,0 +1,21 @@
+---
+id: cycle_nepbh
+name: Цикл
+position:
+  x: 895
+  y: -156
+next-step: null
+next-error-step: null
+parameters:
+  mode: FOR
+  start: 1
+  step: 1
+  condition-value: 10
+  condition-operator: LOWER
+  array-expression: null
+  batch-size: null
+  condition: null
+  max-iterations-count: null
+  loop-step: function_agentcontext_addnote_tzyyi
+  cycle-timeout-sec: null
+  iteration-timeout-sec: null

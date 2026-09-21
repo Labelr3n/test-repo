@@ -1,0 +1,21 @@
+---
+id: cycle_dzrza
+name: Цикл
+position:
+  x: 1841
+  y: 34
+next-step: null
+next-error-step: null
+parameters:
+  mode: FOR
+  start: 1
+  step: 1
+  condition-value: 10
+  condition-operator: LOWER
+  array-expression: null
+  batch-size: null
+  condition: null
+  max-iterations-count: null
+  loop-step: condition_bgnpx
+  cycle-timeout-sec: null
+  iteration-timeout-sec: null

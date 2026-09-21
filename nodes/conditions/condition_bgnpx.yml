@@ -2,10 +2,10 @@
 id: condition_bgnpx
 name: Условие
 position:
-  x: 907
-  y: 384
-next-step: null
-next-error-step: null
+  x: 2043
+  y: 567
+next-step: function_agentcontext_addnote_tzyyi
+next-error-step: cycle_nepbh
 parameters:
   condition: null
   false-step: null
