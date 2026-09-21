@@ -2,8 +2,8 @@
 id: function_asr_recognize_ujucq
 name: Asr.recognize
 position:
-  x: 1482
-  y: -450
+  x: 1200
+  y: -456
 next-step: null
 next-error-step: null
 parameters:
