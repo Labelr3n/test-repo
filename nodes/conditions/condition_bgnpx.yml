@@ -4,7 +4,7 @@ name: Условие
 position:
   x: 2043
   y: 567
-next-step: function_agentcontext_addnote_tzyyi
+next-step: null
 next-error-step: cycle_nepbh
 parameters:
   condition: null
