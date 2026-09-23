@@ -1,0 +1,7 @@
+---
+id: dup0923
+name: dup0923
+description: "AP-3008 verify 23.09: same id in CollectionA and CollectionB"
+response-description: null
+parameters: null
+language: JAVASCRIPT
