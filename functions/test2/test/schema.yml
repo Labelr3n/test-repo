@@ -3,5 +3,5 @@ id: test
 name: test
 description: 123
 response-description: null
-parameters: []
+parameters: null
 language: JAVASCRIPT

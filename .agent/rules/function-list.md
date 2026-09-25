@@ -190,4 +190,6 @@ For detailed info about parameters and response, read the corresponding file.
 
 - `test.test` — 123
   Directory: functions/test/test/
+- `test2.test` — 123
+  Directory: functions/test2/test/
 
