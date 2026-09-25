@@ -2,8 +2,8 @@
 id: agent_efpmg
 name: Агент
 position:
-  x: 1161
-  y: 238
+  x: 775
+  y: 15
 next-step: null
 next-error-step: null
 parameters:
@@ -29,6 +29,7 @@ parameters:
   stay-in-agent: false
   telephony-config: null
   enable-context: true
+  use-dynamic-tools: false
   chat-history-limit: 50
   sequential-tool-calls-limit: 10
   unique-tools-count-limit: 10

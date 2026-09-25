@@ -1,0 +1,14 @@
+---
+id: trigger_schedule_riugr
+name: Планировщик
+position:
+  x: 1271
+  y: 1
+next-step: null
+next-error-step: null
+parameters:
+  interval-seconds: null
+  cron: null
+  max-repeat-count: null
+  end-after-date: null
+  start-date-time: null
