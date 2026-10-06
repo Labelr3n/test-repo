@@ -1,7 +1,0 @@
----
-id: gitFunc
-name: gitFunc
-description: "AP-3008 verify: third duplicate id gitFunc in CollectionB"
-response-description: null
-parameters: []
-language: JAVASCRIPT
