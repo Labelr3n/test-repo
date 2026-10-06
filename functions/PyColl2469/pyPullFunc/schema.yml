@@ -1,0 +1,7 @@
+---
+id: pyPullFunc
+name: pyPullFunc
+description: "AP-2469: python function, code must survive pull"
+response-description: AP-2469 marker
+parameters: []
+language: PYTHON

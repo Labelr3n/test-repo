@@ -16,6 +16,6 @@ parameters:
   batch-size: null
   condition: null
   max-iterations-count: null
-  loop-step: ""
+  loop-step: null
   cycle-timeout-sec: null
   iteration-timeout-sec: null

@@ -198,4 +198,6 @@ For detailed info about parameters and response, read the corresponding file.
   Directory: functions/CollectionB/dup0923/
 - `CollectionB.gitFunc` — AP-3008 verify: third duplicate id gitFunc in CollectionB
   Directory: functions/CollectionB/gitFunc/
+- `PyColl2469.pyPullFunc` — AP-2469: python function, code must survive pull
+  Directory: functions/PyColl2469/pyPullFunc/
 
