@@ -18,7 +18,7 @@ parameters:
     structured-output-enabled: false
     structured-output-schema: null
   system-promts:
-    role: Test AP-3097 p2 edit
+    role: Test AP-3097 propagate 2026.1
     goal: test
     instructions: test
     query-override: ""
@@ -29,7 +29,6 @@ parameters:
   stay-in-agent: false
   telephony-config: null
   enable-context: true
-  use-dynamic-tools: false
   chat-history-limit: 50
   sequential-tool-calls-limit: 10
   unique-tools-count-limit: 10
