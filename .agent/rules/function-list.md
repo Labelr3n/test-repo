@@ -192,4 +192,6 @@ For detailed info about parameters and response, read the corresponding file.
   Directory: functions/CollectionA/ap3008Check/
 - `PyColl2469.pyPullFunc` — AP-2469: python function, code must survive pull
   Directory: functions/PyColl2469/pyPullFunc/
+- `testColl.ap3097CodeKey` — AP-3097: model key hardcoded in function body must be rewritten on pull
+  Directory: functions/testColl/ap3097CodeKey/
 

@@ -1,0 +1,7 @@
+---
+id: ap3097CodeKey
+name: ap3097CodeKey
+description: "AP-3097: model key hardcoded in function body must be rewritten on pull"
+response-description: null
+parameters: null
+language: JAVASCRIPT
